@@ -1,0 +1,29 @@
+{
+  "reviewed_on": "2026-09-15",
+  "coverage": "Two curated historical examples; not exhaustive or live",
+  "events": [
+    {
+      "id": "codex-september-12-2026",
+      "product": "Codex",
+      "action": "public-usage-reset",
+      "evidence_status": "completed",
+      "completion_update_utc": "2026-09-12T08:09:17Z",
+      "record": "https://quotaresetwatch.com/en/events/codex-september-12-2026/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2098685367058612394",
+        "https://x.com/thsottiaux/status/2098612714704891959"
+      ]
+    },
+    {
+      "id": "claude-april-23-2026",
+      "product": "Claude",
+      "action": "public-usage-reset",
+      "evidence_status": "rollout-announced",
+      "event_date": "2026-04-23",
+      "scope": "Subscribers, as described in the Anthropic engineering report",
+      "record": "https://quotaresetwatch.com/en/events/claude-april-23-2026/",
+      "primary_sources": ["https://www.anthropic.com/engineering/april-23-postmortem"],
+      "note": "Date-only historical source; no exact completion timestamp inferred"
+    }
+  ]
+}
