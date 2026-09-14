@@ -1,13 +1,15 @@
 {
   "reviewed_on": "2026-09-15",
-  "coverage": "Two curated historical examples; not exhaustive or live",
+  "coverage": "Public-source archive; may omit events. Live updates are available from the site API.",
+  "live_api": "https://quotaresetwatch.com/api/events",
   "events": [
     {
       "id": "codex-september-12-2026",
-      "product": "Codex",
-      "action": "public-usage-reset",
+      "product": "codex",
+      "kind": "public-reset",
       "evidence_status": "completed",
-      "completion_update_utc": "2026-09-12T08:09:17Z",
+      "source_publication_time": "2026-09-12T08:09:17Z",
+      "precision": "second",
       "record": "https://quotaresetwatch.com/en/events/codex-september-12-2026/",
       "primary_sources": [
         "https://x.com/thsottiaux/status/2098685367058612394",
@@ -15,15 +17,616 @@
       ]
     },
     {
+      "id": "codex-2097174560412246215",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-09-08T04:05:53.478Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2097174560412246215/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2097174560412246215"
+      ]
+    },
+    {
+      "id": "codex-2096035437299237298",
+      "product": "codex",
+      "kind": "banked-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-09-05T00:39:25.364Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2096035437299237298/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2096035437299237298"
+      ]
+    },
+    {
+      "id": "codex-2095651088502591861",
+      "product": "codex",
+      "kind": "banked-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-09-03T23:12:09.470Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2095651088502591861/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2095651088502591861"
+      ]
+    },
+    {
+      "id": "codex-2094251180121854309",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-08-31T02:29:25.303Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2094251180121854309/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2094251180121854309"
+      ]
+    },
+    {
+      "id": "codex-2093801758665715784",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "rolling-out",
+      "source_publication_time": "2026-08-29T20:43:34.878Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2093801758665715784/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2093801758665715784"
+      ]
+    },
+    {
+      "id": "codex-2093014447833116908",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-08-27T16:35:05.348Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2093014447833116908/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2093014447833116908"
+      ]
+    },
+    {
+      "id": "codex-2091688655828246890",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-08-24T00:46:51.902Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2091688655828246890/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2091688655828246890"
+      ]
+    },
+    {
+      "id": "codex-2090766694897619318",
+      "product": "codex",
+      "kind": "banked-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-08-21T11:43:19.287Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2090766694897619318/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2090766694897619318"
+      ]
+    },
+    {
+      "id": "codex-2087706104814023111",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-08-13T01:01:37.748Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2087706104814023111/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2087706104814023111"
+      ]
+    },
+    {
+      "id": "codex-2086188036493344823",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-08-08T20:29:22.056Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2086188036493344823/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2086188036493344823"
+      ]
+    },
+    {
+      "id": "codex-2083395449814229287",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-08-01T03:32:37.508Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2083395449814229287/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2083395449814229287"
+      ]
+    },
+    {
+      "id": "codex-2082317452755751098",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-07-29T04:09:02.981Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2082317452755751098/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2082317452755751098"
+      ]
+    },
+    {
+      "id": "codex-2081940052154933696",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-07-28T03:09:23.666Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2081940052154933696/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2081940052154933696"
+      ]
+    },
+    {
+      "id": "codex-2081096447718723984",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-07-25T19:17:12.695Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2081096447718723984/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2081096447718723984"
+      ]
+    },
+    {
+      "id": "codex-2079609157934886975",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-07-21T16:47:15.178Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2079609157934886975/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2079609157934886975"
+      ]
+    },
+    {
+      "id": "codex-2078320950488297917",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-07-18T03:28:22.589Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2078320950488297917/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2078320950488297917"
+      ]
+    },
+    {
+      "id": "codex-2077607697487188198",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-07-16T04:14:09.822Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2077607697487188198/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2077607697487188198"
+      ]
+    },
+    {
+      "id": "codex-2077114635308986427",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-07-14T19:34:54.638Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2077114635308986427/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2077114635308986427"
+      ]
+    },
+    {
+      "id": "codex-2076735790567338203",
+      "product": "codex",
+      "kind": "banked-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-07-13T18:29:31.013Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2076735790567338203/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2076735790567338203"
+      ]
+    },
+    {
+      "id": "codex-2076418567143408112",
+      "product": "codex",
+      "kind": "banked-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-07-12T21:28:59.055Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2076418567143408112/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2076418567143408112"
+      ]
+    },
+    {
+      "id": "codex-2075820987833274448",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-07-11T05:54:25.045Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2075820987833274448/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2075820987833274448"
+      ]
+    },
+    {
+      "id": "codex-2075641131002700120",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-07-10T17:59:43.835Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2075641131002700120/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2075641131002700120"
+      ]
+    },
+    {
+      "id": "codex-2075330198887940337",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "rolling-out",
+      "source_publication_time": "2026-07-09T21:24:11.842Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2075330198887940337/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2075330198887940337"
+      ]
+    },
+    {
+      "id": "codex-2071740419030053227",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-06-29T23:39:41.629Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2071740419030053227/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2071740419030053227"
+      ]
+    },
+    {
+      "id": "codex-2071381664853319742",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-06-28T23:54:07.968Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2071381664853319742/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2071381664853319742"
+      ]
+    },
+    {
+      "id": "codex-2070653282440405046",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-06-26T23:39:48.068Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2070653282440405046/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2070653282440405046"
+      ]
+    },
+    {
+      "id": "codex-2067399435009622521",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-06-18T00:10:10.387Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2067399435009622521/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2067399435009622521"
+      ]
+    },
+    {
+      "id": "codex-2062329981548802523",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-06-04T00:25:58.496Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2062329981548802523/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2062329981548802523"
+      ]
+    },
+    {
+      "id": "codex-2061106703446450392",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-05-31T15:25:06.269Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2061106703446450392/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2061106703446450392"
+      ]
+    },
+    {
+      "id": "codex-2058280452851638313",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-05-23T20:14:35.618Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2058280452851638313/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2058280452851638313"
+      ]
+    },
+    {
+      "id": "codex-2055707616605835333",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-05-16T17:51:03.656Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2055707616605835333/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2055707616605835333"
+      ]
+    },
+    {
+      "id": "codex-2048997818673537399",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-04-28T05:28:43.167Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2048997818673537399/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2048997818673537399"
+      ]
+    },
+    {
       "id": "claude-april-23-2026",
-      "product": "Claude",
-      "action": "public-usage-reset",
-      "evidence_status": "rollout-announced",
-      "event_date": "2026-04-23",
-      "scope": "Subscribers, as described in the Anthropic engineering report",
+      "product": "claude",
+      "kind": "public-reset",
+      "evidence_status": "rolling-out",
+      "source_publication_time": "2026-04-23",
+      "precision": "day",
       "record": "https://quotaresetwatch.com/en/events/claude-april-23-2026/",
-      "primary_sources": ["https://www.anthropic.com/engineering/april-23-postmortem"],
-      "note": "Date-only historical source; no exact completion timestamp inferred"
+      "primary_sources": [
+        "https://www.anthropic.com/engineering/april-23-postmortem"
+      ]
+    },
+    {
+      "id": "codex-2046367145588916687",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-04-20T23:15:21.828Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2046367145588916687/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2046367145588916687"
+      ]
+    },
+    {
+      "id": "codex-2044943514832871564",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-04-17T00:58:21.806Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2044943514832871564/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2044943514832871564"
+      ]
+    },
+    {
+      "id": "codex-2042299371602264319",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "rolling-out",
+      "source_publication_time": "2026-04-09T17:51:28.934Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2042299371602264319/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2042299371602264319"
+      ]
+    },
+    {
+      "id": "codex-2041655710346572085",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-04-07T23:13:48.132Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2041655710346572085/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2041655710346572085"
+      ]
+    },
+    {
+      "id": "codex-2039248564967424483",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-04-01T07:48:39.951Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2039248564967424483/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2039248564967424483"
+      ]
+    },
+    {
+      "id": "codex-2037346989244096581",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-03-27T01:52:28.969Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2037346989244096581/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2037346989244096581"
+      ]
+    },
+    {
+      "id": "codex-2031605592352313567",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-03-11T05:38:13.280Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2031605592352313567/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2031605592352313567"
+      ]
+    },
+    {
+      "id": "codex-2031216405266481489",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-03-10T03:51:43.848Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2031216405266481489/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2031216405266481489"
+      ]
+    },
+    {
+      "id": "codex-2030474136024400173",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2026-03-08T02:42:13.070Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2030474136024400173/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2030474136024400173"
+      ]
+    },
+    {
+      "id": "codex-2029308599835738218",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "rolling-out",
+      "source_publication_time": "2026-03-04T21:30:47.588Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2029308599835738218/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2029308599835738218"
+      ]
+    },
+    {
+      "id": "codex-2028649088594436225",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "announced",
+      "source_publication_time": "2026-03-03T01:50:07.855Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2028649088594436225/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2028649088594436225"
+      ]
+    },
+    {
+      "id": "codex-2004100061933064395",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2025-12-25T08:01:03.800Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2004100061933064395/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2004100061933064395"
+      ]
+    },
+    {
+      "id": "codex-2002137269134819610",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2025-12-19T22:01:37.530Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2002137269134819610/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2002137269134819610"
+      ]
+    },
+    {
+      "id": "codex-2001114683047317723",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2025-12-17T02:18:14.008Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-2001114683047317723/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/2001114683047317723"
+      ]
+    },
+    {
+      "id": "codex-1995988609896513743",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2025-12-02T22:49:02.931Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-1995988609896513743/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/1995988609896513743"
+      ]
+    },
+    {
+      "id": "codex-1992370994028388670",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2025-11-22T23:13:56.096Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-1992370994028388670/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/1992370994028388670"
+      ]
+    },
+    {
+      "id": "codex-1986166501435711936",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2025-11-05T20:19:29.788Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-1986166501435711936/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/1986166501435711936"
+      ]
+    },
+    {
+      "id": "codex-1968163721034994139",
+      "product": "codex",
+      "kind": "public-reset",
+      "evidence_status": "completed",
+      "source_publication_time": "2025-09-17T04:02:52.465Z",
+      "precision": "second",
+      "record": "https://quotaresetwatch.com/en/events/codex-1968163721034994139/",
+      "primary_sources": [
+        "https://x.com/thsottiaux/status/1968163721034994139"
+      ]
     }
   ]
 }
