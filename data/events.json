@@ -1,632 +1,2242 @@
-{
-  "reviewed_on": "2026-09-15",
-  "coverage": "Public-source archive; may omit events. Live updates are available from the site API.",
-  "live_api": "https://quotaresetwatch.com/api/events",
-  "events": [
-    {
-      "id": "codex-september-12-2026",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-09-12T08:09:17Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-september-12-2026/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2098685367058612394",
-        "https://x.com/thsottiaux/status/2098612714704891959"
-      ]
+[
+  {
+    "slug": "codex-september-12-2026",
+    "product": "codex",
+    "date": "2026-09-12T08:09:17Z",
+    "precision": "second",
+    "state": "completed",
+    "kind": "public-reset",
+    "title": {
+      "en": "Codex public reset: rollout completed",
+      "zh": "Codex 公共重置：已完成分发"
     },
-    {
-      "id": "codex-2097174560412246215",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-09-08T04:05:53.478Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2097174560412246215/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2097174560412246215"
-      ]
+    "summary": {
+      "en": "Tibo Sottiaux confirmed that the announced Codex reset had finished propagating.",
+      "zh": "Tibo Sottiaux 确认，此前公布的 Codex 重置已完成分发。"
     },
-    {
-      "id": "codex-2096035437299237298",
-      "product": "codex",
-      "kind": "banked-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-09-05T00:39:25.364Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2096035437299237298/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2096035437299237298"
-      ]
+    "scope": {
+      "en": "Public Codex reset. Check your in-product usage panel for account eligibility and available quota.",
+      "zh": "面向 Codex 的公共重置。个人账户的适用范围及剩余额度以产品内用量页为准。"
     },
-    {
-      "id": "codex-2095651088502591861",
-      "product": "codex",
-      "kind": "banked-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-09-03T23:12:09.470Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2095651088502591861/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2095651088502591861"
-      ]
+    "explanation": {
+      "en": "The completion update follows an earlier announcement. We link both stages so you can distinguish a planned reset from a completed rollout. The time shown is the completion post timestamp, not an individual account reset time.",
+      "zh": "这条完成通知对应此前的预告。页面保留两个阶段的来源，便于区分计划重置与分发完成。所示时间是完成帖发布时间，不是个人账户重置时间。"
     },
-    {
-      "id": "codex-2094251180121854309",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-08-31T02:29:25.303Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2094251180121854309/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2094251180121854309"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2098685367058612394",
+        "label": {
+          "en": "Completion update",
+          "zh": "完成通知"
+        },
+        "quote": "Reset all propagated. Sweet dreams."
+      },
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2098612714704891959",
+        "label": {
+          "en": "Earlier announcement",
+          "zh": "此前预告"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "codex-2097174560412246215",
+    "product": "codex",
+    "date": "2026-09-08T04:05:53.478Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-09-08",
+      "zh": "Codex 公共重置已确认 · 2026-09-08"
     },
-    {
-      "id": "codex-2093801758665715784",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "rolling-out",
-      "source_publication_time": "2026-08-29T20:43:34.878Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2093801758665715784/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2093801758665715784"
-      ]
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-09-08.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-09-08。"
     },
-    {
-      "id": "codex-2093014447833116908",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-08-27T16:35:05.348Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2093014447833116908/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2093014447833116908"
-      ]
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
     },
-    {
-      "id": "codex-2091688655828246890",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-08-24T00:46:51.902Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2091688655828246890/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2091688655828246890"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2090766694897619318",
-      "product": "codex",
-      "kind": "banked-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-08-21T11:43:19.287Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2090766694897619318/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2090766694897619318"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2097174560412246215",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "All reset for everyone. Enjoy the week with Astra."
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2096035437299237298",
+    "product": "codex",
+    "date": "2026-09-05T00:39:25.364Z",
+    "precision": "second",
+    "kind": "banked-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex banked reset credit · 2026-09-05",
+      "zh": "Codex 发放暂存重置机会 · 2026-09-05"
     },
-    {
-      "id": "codex-2087706104814023111",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-08-13T01:01:37.748Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2087706104814023111/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2087706104814023111"
-      ]
+    "summary": {
+      "en": "The Codex team posted about a reset credit that can be redeemed separately. Published 2026-09-05.",
+      "zh": "Codex 团队发布了可单独使用的暂存重置机会。 发布时间：2026-09-05。"
     },
-    {
-      "id": "codex-2086188036493344823",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-08-08T20:29:22.056Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2086188036493344823/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2086188036493344823"
-      ]
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
     },
-    {
-      "id": "codex-2083395449814229287",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-08-01T03:32:37.508Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2083395449814229287/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2083395449814229287"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2082317452755751098",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-07-29T04:09:02.981Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2082317452755751098/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2082317452755751098"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2096035437299237298",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really,…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "claude-2095967323412930677",
+    "product": "claude",
+    "date": "2026-09-04T20:08:45.748Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "verification": "editor-reviewed",
+    "discoveredVia": "https://tokenresets.com/api/v1/feed.atom",
+    "title": {
+      "en": "Claude Max weekly limits reset · 2026-09-04",
+      "zh": "Claude Max 每周额度已重置 · 2026-09-04"
     },
-    {
-      "id": "codex-2081940052154933696",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-07-28T03:09:23.666Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2081940052154933696/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2081940052154933696"
-      ]
+    "summary": {
+      "en": "2026-09-04 · Claude Max subscribers: the original post confirms a reset of weekly usage limits.",
+      "zh": "2026-09-04 · Claude Max 订阅用户：原帖确认已重置每周用量额度。"
     },
-    {
-      "id": "codex-2081096447718723984",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-07-25T19:17:12.695Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2081096447718723984/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2081096447718723984"
-      ]
+    "scope": {
+      "en": "Claude Max subscribers · weekly usage limits.",
+      "zh": "Claude Max 订阅用户 · 每周用量额度。"
     },
-    {
-      "id": "codex-2079609157934886975",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-07-21T16:47:15.178Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2079609157934886975/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2079609157934886975"
-      ]
+    "explanation": {
+      "en": "Editorial review checked the full original announcement, its product-team author, the named plans and the stated usage windows. The displayed time is the post publication time. The original uses explicit wording that the reset has been applied.",
+      "zh": "编辑复查了完整原始公告、产品团队作者、适用计划及额度窗口。显示时间为原帖发布时间。原帖使用明确措辞说明已执行重置。"
     },
-    {
-      "id": "codex-2078320950488297917",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-07-18T03:28:22.589Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2078320950488297917/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2078320950488297917"
-      ]
+    "evidence": [
+      {
+        "publisher": "Lydia Hallie ✨",
+        "url": "https://x.com/lydiahallie/status/2095967323412930677",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We've just reset weekly limits for everyone on a Claude Max plan. With Fable 5.1 out and a long weekend ahead for many of"
+      }
+    ],
+    "updatedAt": "2026-09-15T09:07:43.094Z",
+    "publishedAt": "2026-09-15"
+  },
+  {
+    "slug": "codex-2095651088502591861",
+    "product": "codex",
+    "date": "2026-09-03T23:12:09.470Z",
+    "precision": "second",
+    "kind": "banked-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex banked reset credit · 2026-09-03",
+      "zh": "Codex 发放暂存重置机会 · 2026-09-03"
     },
-    {
-      "id": "codex-2077607697487188198",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-07-16T04:14:09.822Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2077607697487188198/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2077607697487188198"
-      ]
+    "summary": {
+      "en": "The Codex team posted about a reset credit that can be redeemed separately. Published 2026-09-03.",
+      "zh": "Codex 团队发布了可单独使用的暂存重置机会。 发布时间：2026-09-03。"
     },
-    {
-      "id": "codex-2077114635308986427",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-07-14T19:34:54.638Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2077114635308986427/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2077114635308986427"
-      ]
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
     },
-    {
-      "id": "codex-2076735790567338203",
-      "product": "codex",
-      "kind": "banked-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-07-13T18:29:31.013Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2076735790567338203/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2076735790567338203"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2076418567143408112",
-      "product": "codex",
-      "kind": "banked-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-07-12T21:28:59.055Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2076418567143408112/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2076418567143408112"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2095651088502591861",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today. Team is…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2094251180121854309",
+    "product": "codex",
+    "date": "2026-08-31T02:29:25.303Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-08-31",
+      "zh": "Codex 公共重置已确认 · 2026-08-31"
     },
-    {
-      "id": "codex-2075820987833274448",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-07-11T05:54:25.045Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2075820987833274448/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2075820987833274448"
-      ]
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-08-31.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-08-31。"
     },
-    {
-      "id": "codex-2075641131002700120",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-07-10T17:59:43.835Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2075641131002700120/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2075641131002700120"
-      ]
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
     },
-    {
-      "id": "codex-2075330198887940337",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "rolling-out",
-      "source_publication_time": "2026-07-09T21:24:11.842Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2075330198887940337/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2075330198887940337"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2071740419030053227",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-06-29T23:39:41.629Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2071740419030053227/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2071740419030053227"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2094251180121854309",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2093801758665715784",
+    "product": "codex",
+    "date": "2026-08-29T20:43:34.878Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "rolling-out",
+    "title": {
+      "en": "Codex public reset announced · 2026-08-29",
+      "zh": "Codex 公共重置预告 · 2026-08-29"
     },
-    {
-      "id": "codex-2071381664853319742",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-06-28T23:54:07.968Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2071381664853319742/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2071381664853319742"
-      ]
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-08-29.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-08-29。"
     },
-    {
-      "id": "codex-2070653282440405046",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-06-26T23:39:48.068Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2070653282440405046/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2070653282440405046"
-      ]
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
     },
-    {
-      "id": "codex-2067399435009622521",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-06-18T00:10:10.387Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2067399435009622521/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2067399435009622521"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2062329981548802523",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-06-04T00:25:58.496Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2062329981548802523/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2062329981548802523"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2093801758665715784",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We are reseting usage for all paid users of Codex and ChatGPT Work. Please continue reading for an update on Codex usage limits. The…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2093014447833116908",
+    "product": "codex",
+    "date": "2026-08-27T16:35:05.348Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-08-27",
+      "zh": "Codex 公共重置已确认 · 2026-08-27"
     },
-    {
-      "id": "codex-2061106703446450392",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-05-31T15:25:06.269Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2061106703446450392/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2061106703446450392"
-      ]
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-08-27.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-08-27。"
     },
-    {
-      "id": "codex-2058280452851638313",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-05-23T20:14:35.618Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2058280452851638313/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2058280452851638313"
-      ]
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
     },
-    {
-      "id": "codex-2055707616605835333",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-05-16T17:51:03.656Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2055707616605835333/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2055707616605835333"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2048997818673537399",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-04-28T05:28:43.167Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2048997818673537399/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2048997818673537399"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2093014447833116908",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Never slept better and feeling reseted. Brand new me and brand new usage for all ChatGPT Work and Codex users. Regaining my youth one…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2091688655828246890",
+    "product": "codex",
+    "date": "2026-08-24T00:46:51.902Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-08-24",
+      "zh": "Codex 公共重置已确认 · 2026-08-24"
     },
-    {
-      "id": "claude-april-23-2026",
-      "product": "claude",
-      "kind": "public-reset",
-      "evidence_status": "rolling-out",
-      "source_publication_time": "2026-04-23",
-      "precision": "day",
-      "record": "https://quotaresetwatch.com/en/events/claude-april-23-2026/",
-      "primary_sources": [
-        "https://www.anthropic.com/engineering/april-23-postmortem"
-      ]
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-08-24.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-08-24。"
     },
-    {
-      "id": "codex-2046367145588916687",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-04-20T23:15:21.828Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2046367145588916687/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2046367145588916687"
-      ]
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
     },
-    {
-      "id": "codex-2044943514832871564",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-04-17T00:58:21.806Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2044943514832871564/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2044943514832871564"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2042299371602264319",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "rolling-out",
-      "source_publication_time": "2026-04-09T17:51:28.934Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2042299371602264319/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2042299371602264319"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2091688655828246890",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2090766694897619318",
+    "product": "codex",
+    "date": "2026-08-21T11:43:19.287Z",
+    "precision": "second",
+    "kind": "banked-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex banked reset credit · 2026-08-21",
+      "zh": "Codex 发放暂存重置机会 · 2026-08-21"
     },
-    {
-      "id": "codex-2041655710346572085",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-04-07T23:13:48.132Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2041655710346572085/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2041655710346572085"
-      ]
+    "summary": {
+      "en": "The Codex team posted about a reset credit that can be redeemed separately. Published 2026-08-21.",
+      "zh": "Codex 团队发布了可单独使用的暂存重置机会。 发布时间：2026-08-21。"
     },
-    {
-      "id": "codex-2039248564967424483",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-04-01T07:48:39.951Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2039248564967424483/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2039248564967424483"
-      ]
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
     },
-    {
-      "id": "codex-2037346989244096581",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-03-27T01:52:28.969Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2037346989244096581/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2037346989244096581"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2031605592352313567",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-03-11T05:38:13.280Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2031605592352313567/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2031605592352313567"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2090766694897619318",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "It's me again. I come bearing great news. First of all, we have hit 20M active users for Codex some time this week. Second…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2087706104814023111",
+    "product": "codex",
+    "date": "2026-08-13T01:01:37.748Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-08-13",
+      "zh": "Codex 公共重置预告 · 2026-08-13"
     },
-    {
-      "id": "codex-2031216405266481489",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-03-10T03:51:43.848Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2031216405266481489/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2031216405266481489"
-      ]
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-08-13.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-08-13。"
     },
-    {
-      "id": "codex-2030474136024400173",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2026-03-08T02:42:13.070Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2030474136024400173/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2030474136024400173"
-      ]
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
     },
-    {
-      "id": "codex-2029308599835738218",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "rolling-out",
-      "source_publication_time": "2026-03-04T21:30:47.588Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2029308599835738218/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2029308599835738218"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-2028649088594436225",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "announced",
-      "source_publication_time": "2026-03-03T01:50:07.855Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2028649088594436225/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2028649088594436225"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2087706104814023111",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2086188036493344823",
+    "product": "codex",
+    "date": "2026-08-08T20:29:22.056Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-08-08",
+      "zh": "Codex 公共重置已确认 · 2026-08-08"
     },
-    {
-      "id": "codex-2004100061933064395",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2025-12-25T08:01:03.800Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2004100061933064395/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2004100061933064395"
-      ]
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-08-08.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-08-08。"
     },
-    {
-      "id": "codex-2002137269134819610",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2025-12-19T22:01:37.530Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2002137269134819610/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2002137269134819610"
-      ]
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
     },
-    {
-      "id": "codex-2001114683047317723",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2025-12-17T02:18:14.008Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-2001114683047317723/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/2001114683047317723"
-      ]
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
     },
-    {
-      "id": "codex-1995988609896513743",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2025-12-02T22:49:02.931Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-1995988609896513743/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/1995988609896513743"
-      ]
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2086188036493344823",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "That's right, GPT-5.6 Sol is awesome and can be used pretty much anywhere, including in the CC harness. To celebrate this, together with the…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2083395449814229287",
+    "product": "codex",
+    "date": "2026-08-01T03:32:37.508Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-08-01",
+      "zh": "Codex 公共重置已确认 · 2026-08-01"
     },
-    {
-      "id": "codex-1992370994028388670",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2025-11-22T23:13:56.096Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-1992370994028388670/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/1992370994028388670"
-      ]
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-08-01.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-08-01。"
     },
-    {
-      "id": "codex-1986166501435711936",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2025-11-05T20:19:29.788Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-1986166501435711936/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/1986166501435711936"
-      ]
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
     },
-    {
-      "id": "codex-1968163721034994139",
-      "product": "codex",
-      "kind": "public-reset",
-      "evidence_status": "completed",
-      "source_publication_time": "2025-09-17T04:02:52.465Z",
-      "precision": "second",
-      "record": "https://quotaresetwatch.com/en/events/codex-1968163721034994139/",
-      "primary_sources": [
-        "https://x.com/thsottiaux/status/1968163721034994139"
-      ]
-    }
-  ]
-}
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2083395449814229287",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2082317452755751098",
+    "product": "codex",
+    "date": "2026-07-29T04:09:02.981Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-07-29",
+      "zh": "Codex 公共重置已确认 · 2026-07-29"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-07-29.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-07-29。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2082317452755751098",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2081940052154933696",
+    "product": "codex",
+    "date": "2026-07-28T03:09:23.666Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-07-28",
+      "zh": "Codex 公共重置已确认 · 2026-07-28"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-07-28.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-07-28。"
+    },
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2081940052154933696",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Back at the laptop. The usage limits have been reset for all paid users of Codex and ChatGPT Work. Weeeeeeeee. It's a good day!"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2081096447718723984",
+    "product": "codex",
+    "date": "2026-07-25T19:17:12.695Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-07-25",
+      "zh": "Codex 公共重置已确认 · 2026-07-25"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-07-25.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-07-25。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2081096447718723984",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We have reset usage limits for all Codex and ChatGPT Work users. Last night around 2am to 4am we suffered an almost global outage.…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2079609157934886975",
+    "product": "codex",
+    "date": "2026-07-21T16:47:15.178Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-07-21",
+      "zh": "Codex 公共重置已确认 · 2026-07-21"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-07-21.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-07-21。"
+    },
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2079609157934886975",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "10M! New day, new usage reset for paid users of Codex and ChatGPT Work. Lands in the next hour. Enjoy."
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2078320950488297917",
+    "product": "codex",
+    "date": "2026-07-18T03:28:22.589Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-07-18",
+      "zh": "Codex 公共重置已确认 · 2026-07-18"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-07-18.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-07-18。"
+    },
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2078320950488297917",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Oops... I did it again. Enjoy reset usage limits for all paid users for Codex and ChatGPT Work. Super grateful for an incredible team…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2077607697487188198",
+    "product": "codex",
+    "date": "2026-07-16T04:14:09.822Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-07-16",
+      "zh": "Codex 公共重置预告 · 2026-07-16"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-07-16.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-07-16。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2077607697487188198",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Another reset for our Codex and ChatGPT Work users. Actually hit 9M active users way earlier today, but then got distracted by the approximately…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "claude-2077603834453770467",
+    "product": "claude",
+    "date": "2026-07-16T03:58:48.803Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "verification": "editor-reviewed",
+    "discoveredVia": "https://tokenresets.com/api/v1/feed.atom",
+    "title": {
+      "en": "Claude public usage reset confirmed · 2026-07-16",
+      "zh": "Claude 公共额度重置已确认 · 2026-07-16"
+    },
+    "summary": {
+      "en": "2026-07-16 · All Claude users named in the announcement: the original post confirms a reset of five-hour and weekly usage limits.",
+      "zh": "2026-07-16 · 公告所述的全部 Claude 用户：原帖确认已重置五小时及每周用量额度。"
+    },
+    "scope": {
+      "en": "All Claude users named in the announcement · five-hour and weekly usage limits.",
+      "zh": "公告所述的全部 Claude 用户 · 五小时及每周用量额度。"
+    },
+    "explanation": {
+      "en": "Editorial review checked the full original announcement, its product-team author, the named plans and the stated usage windows. The displayed time is the post publication time. The original uses explicit wording that the reset has been applied.",
+      "zh": "编辑复查了完整原始公告、产品团队作者、适用计划及额度窗口。显示时间为原帖发布时间。原帖使用明确措辞说明已执行重置。"
+    },
+    "evidence": [
+      {
+        "publisher": "ClaudeDevs",
+        "url": "https://x.com/ClaudeDevs/status/2077603834453770467",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We've reset 5-hour and weekly rate limits for all users."
+      }
+    ],
+    "updatedAt": "2026-09-15T09:07:45.471Z",
+    "publishedAt": "2026-09-15T09:02:47.094Z"
+  },
+  {
+    "slug": "codex-2077114635308986427",
+    "product": "codex",
+    "date": "2026-07-14T19:34:54.638Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-07-14",
+      "zh": "Codex 公共重置预告 · 2026-07-14"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-07-14.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-07-14。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2077114635308986427",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Hello. We have reached 8M active users across Codex and ChatGPT Work. We are once again resetting the usage limits for all. And we…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2076735790567338203",
+    "product": "codex",
+    "date": "2026-07-13T18:29:31.013Z",
+    "precision": "second",
+    "kind": "banked-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex banked reset credit · 2026-07-13",
+      "zh": "Codex 发放暂存重置机会 · 2026-07-13"
+    },
+    "summary": {
+      "en": "The Codex team posted about a reset credit that can be redeemed separately. Published 2026-07-13.",
+      "zh": "Codex 团队发布了可单独使用的暂存重置机会。 发布时间：2026-07-13。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2076735790567338203",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Thank you to the 7M active users who are now using Codex and ChatGPT Work. We have added a banked reset to everyone's account…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2076418567143408112",
+    "product": "codex",
+    "date": "2026-07-12T21:28:59.055Z",
+    "precision": "second",
+    "kind": "banked-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex banked reset credit · 2026-07-12",
+      "zh": "Codex 发放暂存重置机会 · 2026-07-12"
+    },
+    "summary": {
+      "en": "The Codex team posted about a reset credit that can be redeemed separately. Published 2026-07-12.",
+      "zh": "Codex 团队发布了可单独使用的暂存重置机会。 发布时间：2026-07-12。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2076418567143408112",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Added a banked reset to 500k users of ChatGPT Work and Codex. What’s been happening: - Just released the ability to use a banked…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2075820987833274448",
+    "product": "codex",
+    "date": "2026-07-11T05:54:25.045Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-07-11",
+      "zh": "Codex 公共重置预告 · 2026-07-11"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-07-11.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-07-11。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2075820987833274448",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Introducing... another usage limit reset for all our ChatGPT Work and Codex users. Should land over next 30 minutes. Hope you have an awesome…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2075641131002700120",
+    "product": "codex",
+    "date": "2026-07-10T17:59:43.835Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-07-10",
+      "zh": "Codex 公共重置已确认 · 2026-07-10"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-07-10.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-07-10。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2075641131002700120",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2075330198887940337",
+    "product": "codex",
+    "date": "2026-07-09T21:24:11.842Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "rolling-out",
+    "title": {
+      "en": "Codex public reset announced · 2026-07-09",
+      "zh": "Codex 公共重置预告 · 2026-07-09"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-07-09.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-07-09。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2075330198887940337",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Enjoy a full reset of your usage limits for ChatGPT Work and Codex. Propagating in the next hour. @_rajanagarwal just joined to work on…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "claude-2075279141352706215",
+    "product": "claude",
+    "date": "2026-07-09T18:01:18.777Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "verification": "editor-reviewed",
+    "discoveredVia": "https://tokenresets.com/api/v1/feed.atom",
+    "title": {
+      "en": "Claude public usage reset confirmed · 2026-07-09",
+      "zh": "Claude 公共额度重置已确认 · 2026-07-09"
+    },
+    "summary": {
+      "en": "2026-07-09 · All Claude users named in the announcement: the original post confirms a reset of five-hour and weekly usage limits.",
+      "zh": "2026-07-09 · 公告所述的全部 Claude 用户：原帖确认已重置五小时及每周用量额度。"
+    },
+    "scope": {
+      "en": "All Claude users named in the announcement · five-hour and weekly usage limits.",
+      "zh": "公告所述的全部 Claude 用户 · 五小时及每周用量额度。"
+    },
+    "explanation": {
+      "en": "Editorial review checked the full original announcement, its product-team author, the named plans and the stated usage windows. The displayed time is the post publication time. The original uses explicit wording that the reset has been applied.",
+      "zh": "编辑复查了完整原始公告、产品团队作者、适用计划及额度窗口。显示时间为原帖发布时间。原帖使用明确措辞说明已执行重置。"
+    },
+    "evidence": [
+      {
+        "publisher": "ClaudeDevs",
+        "url": "https://x.com/ClaudeDevs/status/2075279141352706215",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We've reset 5-hour and weekly rate limits for all users."
+      }
+    ],
+    "updatedAt": "2026-09-15T09:07:47.929Z",
+    "publishedAt": "2026-09-15T09:02:49.581Z"
+  },
+  {
+    "slug": "claude-2072429181565288665",
+    "product": "claude",
+    "date": "2026-07-01T21:16:35.414Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "verification": "editor-reviewed",
+    "discoveredVia": "https://tokenresets.com/api/v1/feed.atom",
+    "title": {
+      "en": "Claude public usage reset confirmed · 2026-07-01",
+      "zh": "Claude 公共额度重置已确认 · 2026-07-01"
+    },
+    "summary": {
+      "en": "2026-07-01 · All Claude users named in the announcement: the original post confirms a reset of five-hour and weekly usage limits.",
+      "zh": "2026-07-01 · 公告所述的全部 Claude 用户：原帖确认已重置五小时及每周用量额度。"
+    },
+    "scope": {
+      "en": "All Claude users named in the announcement · five-hour and weekly usage limits.",
+      "zh": "公告所述的全部 Claude 用户 · 五小时及每周用量额度。"
+    },
+    "explanation": {
+      "en": "Editorial review checked the full original announcement, its product-team author, the named plans and the stated usage windows. The displayed time is the post publication time. The original uses explicit wording that the reset has been applied.",
+      "zh": "编辑复查了完整原始公告、产品团队作者、适用计划及额度窗口。显示时间为原帖发布时间。原帖使用明确措辞说明已执行重置。"
+    },
+    "evidence": [
+      {
+        "publisher": "ClaudeDevs",
+        "url": "https://x.com/ClaudeDevs/status/2072429181565288665",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Now that Fable 5 is ready to build (again), we've reset everyone's 5-hour and weekly rate limits."
+      }
+    ],
+    "updatedAt": "2026-09-15T09:07:50.448Z",
+    "publishedAt": "2026-09-15T09:02:52.350Z"
+  },
+  {
+    "slug": "codex-2071740419030053227",
+    "product": "codex",
+    "date": "2026-06-29T23:39:41.629Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-06-29",
+      "zh": "Codex 公共重置预告 · 2026-06-29"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-06-29.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-06-29。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2071740419030053227",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2071381664853319742",
+    "product": "codex",
+    "date": "2026-06-28T23:54:07.968Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-06-28",
+      "zh": "Codex 公共重置已确认 · 2026-06-28"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-06-28.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-06-28。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2071381664853319742",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "As we are still investigating, I have reset everyone's Codex usage limits. This is a hard reset given some users had stacked up to…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2070653282440405046",
+    "product": "codex",
+    "date": "2026-06-26T23:39:48.068Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-06-26",
+      "zh": "Codex 公共重置已确认 · 2026-06-26"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-06-26.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-06-26。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2070653282440405046",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We are giving all Codex users a usage reset on the house. Should be showing in your accounts in the next few hours. We…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "claude-2068122937308426676",
+    "product": "claude",
+    "date": "2026-06-20T00:05:06.777Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "verification": "editor-reviewed",
+    "discoveredVia": "https://tokenresets.com/api/v1/feed.atom",
+    "title": {
+      "en": "Claude public usage reset confirmed · 2026-06-20",
+      "zh": "Claude 公共额度重置已确认 · 2026-06-20"
+    },
+    "summary": {
+      "en": "2026-06-20 · All Claude users named in the announcement: the original post confirms a reset of five-hour and weekly usage limits.",
+      "zh": "2026-06-20 · 公告所述的全部 Claude 用户：原帖确认已重置五小时及每周用量额度。"
+    },
+    "scope": {
+      "en": "All Claude users named in the announcement · five-hour and weekly usage limits.",
+      "zh": "公告所述的全部 Claude 用户 · 五小时及每周用量额度。"
+    },
+    "explanation": {
+      "en": "Editorial review checked the full original announcement, its product-team author, the named plans and the stated usage windows. The displayed time is the post publication time. The original uses explicit wording that the reset has been applied.",
+      "zh": "编辑复查了完整原始公告、产品团队作者、适用计划及额度窗口。显示时间为原帖发布时间。原帖使用明确措辞说明已执行重置。"
+    },
+    "evidence": [
+      {
+        "publisher": "ClaudeDevs",
+        "url": "https://x.com/ClaudeDevs/status/2068122937308426676",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Update: we've gone ahead and reset 5-hour and weekly usage limits for everyone, across all plans. Enjoy your weekend! https://t.co/947qJVyF04 "
+      }
+    ],
+    "updatedAt": "2026-09-15T09:08:00.158Z",
+    "publishedAt": "2026-09-15T09:03:02.450Z"
+  },
+  {
+    "slug": "claude-2067802163498352929",
+    "product": "claude",
+    "date": "2026-06-19T02:50:28.341Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "rolling-out",
+    "verification": "editor-reviewed",
+    "discoveredVia": "https://tokenresets.com/api/v1/feed.atom",
+    "title": {
+      "en": "Claude public usage reset announced · 2026-06-19",
+      "zh": "Claude 公共额度重置预告 · 2026-06-19"
+    },
+    "summary": {
+      "en": "2026-06-19 · Affected Claude Code Pro and Max users described in the incident: the source describes a reset of five-hour and weekly usage limits; completion follows the stated rollout stage.",
+      "zh": "2026-06-19 · 公告中受故障影响的 Claude Code Pro 与 Max 用户：原帖说明将重置五小时及每周用量额度，执行进度以公告措辞为准。"
+    },
+    "scope": {
+      "en": "Affected Claude Code Pro and Max users described in the incident · five-hour and weekly usage limits.",
+      "zh": "公告中受故障影响的 Claude Code Pro 与 Max 用户 · 五小时及每周用量额度。"
+    },
+    "explanation": {
+      "en": "Editorial review checked the full original announcement, its product-team author, the named plans and the stated usage windows. The displayed time is the post publication time. The post says the reset is being applied; a universal completion time is not stated.",
+      "zh": "编辑复查了完整原始公告、产品团队作者、适用计划及额度窗口。显示时间为原帖发布时间。原帖说明正在重置，没有提供全部完成时刻。"
+    },
+    "evidence": [
+      {
+        "publisher": "ClaudeDevs",
+        "url": "https://x.com/ClaudeDevs/status/2067802163498352929",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Earlier today, ~3% of Claude Code Max and Pro users hit a bug that showed an incorrect weekly usage limit, and in some cases"
+      }
+    ],
+    "updatedAt": "2026-09-15T09:07:52.909Z",
+    "publishedAt": "2026-09-15T09:02:54.888Z"
+  },
+  {
+    "slug": "codex-2067399435009622521",
+    "product": "codex",
+    "date": "2026-06-18T00:10:10.387Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-06-18",
+      "zh": "Codex 公共重置已确认 · 2026-06-18"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-06-18.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-06-18。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2067399435009622521",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Dearest gentle codexer. We did a sneaky double reset. Not only do you get a full reset on us. But you are also getting…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "claude-2064464557951852643",
+    "product": "claude",
+    "date": "2026-06-09T21:48:01.169Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "verification": "editor-reviewed",
+    "discoveredVia": "https://tokenresets.com/api/v1/feed.atom",
+    "title": {
+      "en": "Claude public usage reset confirmed · 2026-06-09",
+      "zh": "Claude 公共额度重置已确认 · 2026-06-09"
+    },
+    "summary": {
+      "en": "2026-06-09 · All Claude users named in the announcement: the original post confirms a reset of five-hour and weekly usage limits.",
+      "zh": "2026-06-09 · 公告所述的全部 Claude 用户：原帖确认已重置五小时及每周用量额度。"
+    },
+    "scope": {
+      "en": "All Claude users named in the announcement · five-hour and weekly usage limits.",
+      "zh": "公告所述的全部 Claude 用户 · 五小时及每周用量额度。"
+    },
+    "explanation": {
+      "en": "Editorial review checked the full original announcement, its product-team author, the named plans and the stated usage windows. The displayed time is the post publication time. The original uses explicit wording that the reset has been applied.",
+      "zh": "编辑复查了完整原始公告、产品团队作者、适用计划及额度窗口。显示时间为原帖发布时间。原帖使用明确措辞说明已执行重置。"
+    },
+    "evidence": [
+      {
+        "publisher": "ClaudeDevs",
+        "url": "https://x.com/ClaudeDevs/status/2064464557951852643",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We've reset 5-hour and weekly rate limits for all users. Enjoy Fable 5!"
+      }
+    ],
+    "updatedAt": "2026-09-15T09:07:55.343Z",
+    "publishedAt": "2026-09-15T09:02:57.396Z"
+  },
+  {
+    "slug": "codex-2062329981548802523",
+    "product": "codex",
+    "date": "2026-06-04T00:25:58.496Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-06-04",
+      "zh": "Codex 公共重置已确认 · 2026-06-04"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-06-04.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-06-04。"
+    },
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2062329981548802523",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Hi. Over the last 24 hours we had three separate small incidents that affected Codex reliability. Those are three too many and we are…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "claude-2061501787769893055",
+    "product": "claude",
+    "date": "2026-06-01T17:35:01.712Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "verification": "editor-reviewed",
+    "discoveredVia": "https://tokenresets.com/api/v1/feed.atom",
+    "title": {
+      "en": "Claude Max weekly limits reset · 2026-06-01",
+      "zh": "Claude Max 每周额度已重置 · 2026-06-01"
+    },
+    "summary": {
+      "en": "2026-06-01 · Claude Pro and Max subscribers: the original post confirms a reset of five-hour and weekly usage limits.",
+      "zh": "2026-06-01 · Claude Pro 与 Max 订阅用户：原帖确认已重置五小时及每周用量额度。"
+    },
+    "scope": {
+      "en": "Claude Pro and Max subscribers · five-hour and weekly usage limits.",
+      "zh": "Claude Pro 与 Max 订阅用户 · 五小时及每周用量额度。"
+    },
+    "explanation": {
+      "en": "Editorial review checked the full original announcement, its product-team author, the named plans and the stated usage windows. The displayed time is the post publication time. The original uses explicit wording that the reset has been applied.",
+      "zh": "编辑复查了完整原始公告、产品团队作者、适用计划及额度窗口。显示时间为原帖发布时间。原帖使用明确措辞说明已执行重置。"
+    },
+    "evidence": [
+      {
+        "publisher": "ClaudeDevs",
+        "url": "https://x.com/ClaudeDevs/status/2061501787769893055",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We've reset 5-hour and weekly rate limits for all users on Pro and Max plans. We fixed an issue that caused some Claude Code"
+      }
+    ],
+    "updatedAt": "2026-09-15T09:07:57.775Z",
+    "publishedAt": "2026-09-15T09:02:59.883Z"
+  },
+  {
+    "slug": "codex-2061106703446450392",
+    "product": "codex",
+    "date": "2026-05-31T15:25:06.269Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-05-31",
+      "zh": "Codex 公共重置已确认 · 2026-05-31"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-05-31.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-05-31。"
+    },
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2061106703446450392",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits. Let…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2058280452851638313",
+    "product": "codex",
+    "date": "2026-05-23T20:14:35.618Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-05-23",
+      "zh": "Codex 公共重置已确认 · 2026-05-23"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-05-23.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-05-23。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2058280452851638313",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Some of you noticed limits drained faster in Codex, we root caused it to an optimization that we rolled back that had an impact…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2055707616605835333",
+    "product": "codex",
+    "date": "2026-05-16T17:51:03.656Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-05-16",
+      "zh": "Codex 公共重置已确认 · 2026-05-16"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-05-16.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-05-16。"
+    },
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2055707616605835333",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Codex usage limits have now been reset across all paid plans. Enjoy the weekend!"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2048997818673537399",
+    "product": "codex",
+    "date": "2026-04-28T05:28:43.167Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-04-28",
+      "zh": "Codex 公共重置已确认 · 2026-04-28"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-04-28.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-04-28。"
+    },
+    "scope": {
+      "en": "Paid Codex / ChatGPT subscribers mentioned in the original post. See the source for exact plan eligibility.",
+      "zh": "原帖所述的 Codex / ChatGPT 付费订阅群体，具体套餐以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2048997818673537399",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Don't just reset Codex rate limits for fun, it costs money. Don't just reset Codex rate limits for fun, it costs money. ... but…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "claude-april-23-2026",
+    "product": "claude",
+    "date": "2026-04-23",
+    "precision": "day",
+    "state": "rolling-out",
+    "kind": "public-reset",
+    "title": {
+      "en": "Anthropic announces a subscriber usage reset",
+      "zh": "Anthropic 宣布为订阅用户重置用量"
+    },
+    "summary": {
+      "en": "Anthropic’s Claude Code quality report states that subscriber usage limits are being reset on April 23.",
+      "zh": "Anthropic 在 Claude Code 质量问题说明中宣布，4 月 23 日为订阅用户重置用量限制。"
+    },
+    "scope": {
+      "en": "All subscribers, as stated in Anthropic’s announcement. The quality issues discussed did not affect the API.",
+      "zh": "公告表述为所有订阅用户；文中涉及的质量问题未影响 API。"
+    },
+    "explanation": {
+      "en": "The official article describes a reset in progress. It does not give a separate all-accounts completion timestamp, so this historical entry retains the Rollout announced state. This does not mean a rollout is still happening today.",
+      "zh": "官方文章描述正在重置，但未单独给出所有账户完成的时间。因此这条历史记录保留「已宣布执行」状态；这不表示重置今天仍在进行。"
+    },
+    "evidence": [
+      {
+        "publisher": "Anthropic Engineering",
+        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "label": {
+          "en": "Official postmortem",
+          "zh": "官方问题说明"
+        },
+        "quote": "As of April 23, we’re resetting usage limits for all subscribers."
+      }
+    ]
+  },
+  {
+    "slug": "codex-2046367145588916687",
+    "product": "codex",
+    "date": "2026-04-20T23:15:21.828Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-04-20",
+      "zh": "Codex 公共重置预告 · 2026-04-20"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-04-20.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-04-20。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2046367145588916687",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Codex incident is mitigated, seeing recovery. Lasted about 10 mins, Codex itself helped with the remediation, but ultimately the insight came from a human…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2044943514832871564",
+    "product": "codex",
+    "date": "2026-04-17T00:58:21.806Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-04-17",
+      "zh": "Codex 公共重置预告 · 2026-04-17"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-04-17.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-04-17。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2044943514832871564",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Hi! To celebrate its 1-year anniversary, I have allowed Codex to reset its own rate limits across all plans. Enjoy all the new features."
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2042299371602264319",
+    "product": "codex",
+    "date": "2026-04-09T17:51:28.934Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "rolling-out",
+    "title": {
+      "en": "Codex public reset announced · 2026-04-09",
+      "zh": "Codex 公共重置预告 · 2026-04-09"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-04-09.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-04-09。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2042299371602264319",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We did it, say hi to the $100 plan! It should be the sweet spot for a ton of you. It comes with a…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2041655710346572085",
+    "product": "codex",
+    "date": "2026-04-07T23:13:48.132Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-04-07",
+      "zh": "Codex 公共重置预告 · 2026-04-07"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-04-07.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-04-07。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2041655710346572085",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Three million people are now using Codex weekly - up from two million a little under a month ago. Incredible to see the growth.…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2039248564967424483",
+    "product": "codex",
+    "date": "2026-04-01T07:48:39.951Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-04-01",
+      "zh": "Codex 公共重置预告 · 2026-04-01"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-04-01.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-04-01。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2039248564967424483",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Our Codex dashboards are showing increased rate of users hitting rate limits and since we don't fully understand why I have made the cautious…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2037346989244096581",
+    "product": "codex",
+    "date": "2026-03-27T01:52:28.969Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-03-27",
+      "zh": "Codex 公共重置已确认 · 2026-03-27"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-03-27.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-03-27。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2037346989244096581",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Hello. We have reset Codex usage limits across all plans to let everyone experiment with the magnificent plugins we just launched, and because it…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2031605592352313567",
+    "product": "codex",
+    "date": "2026-03-11T05:38:13.280Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-03-11",
+      "zh": "Codex 公共重置预告 · 2026-03-11"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-03-11.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-03-11。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2031605592352313567",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "OK, Codex is back and stable and we should be good for a while. Reset button pressed, should see it in a bit"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2031216405266481489",
+    "product": "codex",
+    "date": "2026-03-10T03:51:43.848Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-03-10",
+      "zh": "Codex 公共重置预告 · 2026-03-10"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-03-10.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-03-10。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2031216405266481489",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "This codex issue is now fully resolved and stable for the last couple of hours. You have come to expect it, but yes, that…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2030474136024400173",
+    "product": "codex",
+    "date": "2026-03-08T02:42:13.070Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2026-03-08",
+      "zh": "Codex 公共重置已确认 · 2026-03-08"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2026-03-08.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2026-03-08。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2030474136024400173",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We don’t have evidence of a widespread issue with codex usage being drained faster than it should but there are enough reports and we…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2029308599835738218",
+    "product": "codex",
+    "date": "2026-03-04T21:30:47.588Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "rolling-out",
+    "title": {
+      "en": "Codex public reset announced · 2026-03-04",
+      "zh": "Codex 公共重置预告 · 2026-03-04"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-03-04.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-03-04。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2029308599835738218",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We caught an issue that was causing the 2X promotional increase in limits to not be applied to an estimated 9% of plus and…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2028649088594436225",
+    "product": "codex",
+    "date": "2026-03-03T01:50:07.855Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "announced",
+    "title": {
+      "en": "Codex public reset announced · 2026-03-03",
+      "zh": "Codex 公共重置预告 · 2026-03-03"
+    },
+    "summary": {
+      "en": "The Codex team announced a reset. A completion time has not been established by this post. Published 2026-03-03.",
+      "zh": "Codex 团队已公布重置消息；这条原帖尚不能证明全部完成。 发布时间：2026-03-03。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2028649088594436225",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Codex is back up. We introduced an issue that caused requests to be blocked and rejected as high cyber risk. This was fixed in…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2004100061933064395",
+    "product": "codex",
+    "date": "2025-12-25T08:01:03.800Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2025-12-25",
+      "zh": "Codex 公共重置已确认 · 2025-12-25"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2025-12-25.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2025-12-25。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2004100061933064395",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "For Codex users, to thank you all for the fun we've had over the last months, our first gift is that we have **reset…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2002137269134819610",
+    "product": "codex",
+    "date": "2025-12-19T22:01:37.530Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2025-12-19",
+      "zh": "Codex 公共重置已确认 · 2025-12-19"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2025-12-19.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2025-12-19。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2002137269134819610",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We rewrote the underlying system to track and bill usage in Codex and we have reset usage limits in the process. Backfilling is time…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-2001114683047317723",
+    "product": "codex",
+    "date": "2025-12-17T02:18:14.008Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2025-12-17",
+      "zh": "Codex 公共重置已确认 · 2025-12-17"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2025-12-17.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2025-12-17。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/2001114683047317723",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Didn’t need to do this in a while, but you know the drill. We have reset everyone’s usage limits, enjoy more Codex and apologies…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-1995988609896513743",
+    "product": "codex",
+    "date": "2025-12-02T22:49:02.931Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2025-12-02",
+      "zh": "Codex 公共重置已确认 · 2025-12-02"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2025-12-02.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2025-12-02。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/1995988609896513743",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We have reset the usage limits for everyone in Codex, which helps us mitigate the issue the fastest and the team will continue to…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-1992370994028388670",
+    "product": "codex",
+    "date": "2025-11-22T23:13:56.096Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2025-11-22",
+      "zh": "Codex 公共重置已确认 · 2025-11-22"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2025-11-22.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2025-11-22。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/1992370994028388670",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We have reset rate limits for all Codex users to compensate for the unusual high latencies in or near the US in the previous…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-1986166501435711936",
+    "product": "codex",
+    "date": "2025-11-05T20:19:29.788Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2025-11-05",
+      "zh": "Codex 公共重置已确认 · 2025-11-05"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2025-11-05.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2025-11-05。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/1986166501435711936",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "Codex outage resolved. We suffered a minor outage for last 45 minutes which turned into a global outage for last 30 minutes, this is…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  },
+  {
+    "slug": "codex-1968163721034994139",
+    "product": "codex",
+    "date": "2025-09-17T04:02:52.465Z",
+    "precision": "second",
+    "kind": "public-reset",
+    "state": "completed",
+    "title": {
+      "en": "Codex public reset confirmed · 2025-09-17",
+      "zh": "Codex 公共重置已确认 · 2025-09-17"
+    },
+    "summary": {
+      "en": "A public update from the Codex team explicitly describes an applied usage reset. Published 2025-09-17.",
+      "zh": "Codex 团队的公开更新明确说明已执行用量重置。 发布时间：2025-09-17。"
+    },
+    "scope": {
+      "en": "The publicly described Codex user group. Exact plan eligibility follows the original post.",
+      "zh": "原帖公开说明的 Codex 用户群体，具体套餐适用范围以原帖为准。"
+    },
+    "explanation": {
+      "en": "The original post was retrieved from X’s official oEmbed endpoint and its author identity checked. Discovery: Codex Resets public API. Classification uses explicit wording; the timestamp is the post publication time. Banked credits and announcements are excluded from completed-reset statistics.",
+      "zh": "通过 X 官方 oEmbed 接口读取原帖并核对作者身份。线索来自 Codex Resets 公共 API。根据明确措辞分类，时间为原帖发布时间；暂存机会及预告不计入已完成公共重置统计。"
+    },
+    "evidence": [
+      {
+        "publisher": "Tibo Sottiaux · OpenAI",
+        "url": "https://x.com/thsottiaux/status/1968163721034994139",
+        "label": {
+          "en": "Original announcement on X",
+          "zh": "X 官方原帖"
+        },
+        "quote": "We have reset everyone's limits for gpt-5-codex to allow you all to benefit more from it today and as a way to make up…"
+      }
+    ],
+    "verification": "primary-fetched",
+    "discoveredVia": "https://codex-resets.com/api/docs"
+  }
+]
