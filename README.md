@@ -22,6 +22,19 @@ This repository holds a source-checked dataset and a public place to suggest cor
 - [Compare dates across time zones](https://quotaresetwatch.com/en/guides/reset-history-time-zones/)
 - [Check source freshness](https://quotaresetwatch.com/en/guides/check-a-reset-tracker-source-health/)
 
+## Frequency and practical workflows
+
+- [Codex reset frequency and interval statistics](https://quotaresetwatch.com/en/statistics/codex/)
+- [Claude reset frequency and interval statistics](https://quotaresetwatch.com/en/statistics/claude/)
+- [Codex usage limit reached: what to check](https://quotaresetwatch.com/en/guides/codex-usage-limit-reached/)
+- [Claude reset not showing: check the scope](https://quotaresetwatch.com/en/guides/claude-reset-not-showing/)
+- [Follow public resets with RSS](https://quotaresetwatch.com/en/guides/follow-public-resets-with-rss/)
+- [Compare Codex and Claude reset rules](https://quotaresetwatch.com/en/guides/codex-vs-claude-reset-rules/)
+
+The site remembers your chosen product and timezone in your browser. Share a filtered view, or follow the [Codex feed](https://quotaresetwatch.com/feed.xml?product=codex&lang=en) and [Claude feed](https://quotaresetwatch.com/feed.xml?product=claude&lang=en). Replace `lang=en` with `lang=zh` for Chinese. Feeds include announcements and banked benefits as well as completed resets; inspect each event's scope and state.
+
+Statistics use precisely timestamped completed public records, deduplicate identical timestamps and exclude future events. Only completed intervals with both endpoints in the last 90 days and a length of at least six hours enter the mean, median and probability model. This describes the observed public archive, not each user's eligibility or personal schedule.
+
 ## Dataset and evidence rules
 
 See [data/events.json](data/events.json) for 60 public event records. The dataset can omit events; use the [live event API](https://quotaresetwatch.com/api/events) for updates. An older rollout announcement retains its evidence status; it does not mean the rollout is still happening today.
